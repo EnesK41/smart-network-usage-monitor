@@ -1,3 +1,6 @@
 pandas
-scapy
 numpy
+psutil
+scikit-learn
+joblib
+streamlit
