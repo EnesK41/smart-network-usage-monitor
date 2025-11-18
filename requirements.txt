@@ -1,6 +1,23 @@
-pandas
-numpy
-psutil
-scikit-learn
-joblib
-streamlit
+# AINetMonitor - AI-Powered Network Usage Monitor
+# Core dependencies for network monitoring and AI anomaly detection
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# System monitoring and network capture
+psutil>=5.9.0
+scapy>=2.4.5
+
+# Machine learning and model handling
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Desktop notifications
+plyer>=2.1.0
+
+# GUI framework (built into Python 3, but listed for clarity)
+# tkinter (included with Python)
+
+# Development and build tools (optional)
+pyinstaller>=5.0.0  # For creating executable
